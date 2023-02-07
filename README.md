@@ -52,4 +52,4 @@ Excel : Used for basic understanding like structure of data (row and columns), n
 Tableau : For visualization of data,interactivity and seamless experience that comes with the dashboard. 
 
 
-### Want to talk about the project, Please connect with me on [LinkedIn](https://www.linkedin.com/in/aniket-raikwar/) and aniketrtm114@gmai.com
+### Want to talk about the project, Please connect with me on [LinkedIn](https://www.linkedin.com/in/aniket-raikwar/) and aniketrtm114@gmail.com
