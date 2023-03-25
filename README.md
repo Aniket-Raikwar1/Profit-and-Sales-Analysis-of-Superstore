@@ -8,6 +8,9 @@ Analysing the data for understanding the trends and patterns associated with Pro
 
 The trends and patterns derived will give insight and insights will lead to recommendations help in business to strategies for growth.
 
+## Link to the Dashboard
+[Dashboard](https://public.tableau.com/app/profile/aniket.raikwar/viz/Project_Dashboard_16756012046230/Dashboard1)
+
 ## Data preview 
 Dataset contains 21 columns and are like - 
 1. Row ID : A distinct row number of each record.
@@ -42,8 +45,6 @@ Dataset contains 21 columns and are like -
 4. Which Category is profitable.
 5. Understanding the pattern about the profitability of Product.
 
-## Link to the Dashboard
-[Dashboard](https://public.tableau.com/app/profile/aniket.raikwar/viz/Project_Dashboard_16756012046230/Dashboard1)
 
 ## Tools and Language : 
 
